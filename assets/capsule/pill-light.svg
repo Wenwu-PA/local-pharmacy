@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" width="440" height="440"><defs><linearGradient id="ivory" x1="0%" y1="0%" x2="90%" y2="100%"><stop offset="0" stop-color="#FFFFFB"/><stop offset=".55" stop-color="#F8F8EC"/><stop offset="1" stop-color="#C4D6C4"/></linearGradient>
+ <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="90%"><stop offset="0" stop-color="#D5E8D1"/><stop offset=".53" stop-color="#A4C3A4"/><stop offset="1" stop-color="#688D72"/></linearGradient>
+ <clipPath id="capsuleclip"><rect x="120" y="176" width="200" height="87" rx="43.5"/></clipPath></defs><g transform="rotate(-28 220 220)">
+   <rect x="126" y="187" width="194" height="87" rx="43.5" fill="#183F2D" opacity=".24"/>
+   <rect x="120" y="176" width="200" height="87" rx="43.5" fill="url(#ivory)"/>
+   <g clip-path="url(#capsuleclip)"><rect x="219.5" y="176" width="100.5" height="87" fill="url(#green)"/>
+   <ellipse cx="186" cy="186" rx="76" ry="16" fill="#FFFFFF" opacity=".42" transform="rotate(-4 186 186)"/>
+   <ellipse cx="286" cy="256" rx="74" ry="13" fill="#2F6B4C" opacity=".15"/></g>
+   <rect x="120" y="176" width="200" height="87" rx="43.5" stroke="#FCFFF4" stroke-opacity=".77" stroke-width="2.5" fill="none"/>
+   <path d="M219.5 177V261" stroke="#EDFAE8" stroke-opacity=".92" stroke-width="2.2"/>
+   <path d="M157 200C175 189 198 189 209 193" stroke="#FFFFFF" stroke-width="4.5" opacity=".83" stroke-linecap="round" fill="none"/>
+   <path d="M268 205h18m-9-9v18" stroke="#F7FFF1" stroke-width="3.8" opacity=".84" stroke-linecap="round"/>
+  </g></svg>

@@ -1,0 +1,3 @@
+storeFile=/absolute/path/to/local-pharmacy-release.p12
+passwordFile=/absolute/path/to/signing-password.txt
+keyAlias=local-pharmacy-release
